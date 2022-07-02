@@ -3,7 +3,7 @@ import Layout from "../components/Layout";
 
 const IndexPage = () => {
   return (
-    <Layout pageTitle="Home Page">
+    <Layout pageTitle="Liz 개발일기">
       <p>I'm making this by following the Gatsby Tutorial.</p>
      
     </Layout>
